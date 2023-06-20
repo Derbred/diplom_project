@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">РазвивайКа</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="level_1">Уровень: 1</string>
+    <string name="level_2">Уровень: 2</string>
+    <string name="level_3">Уровень: 3</string>
+    <string name="level_3end">Продолжение следует</string>
+    <string name="textcontinue">Продолжить</string>
+    <string name="register">Регистрация</string>
+    <string name="password">Пароль</string>
+    <string name="registred">Зарегистрироваться</string>
+    <string name="login">Войти</string>
+    <string name="loginNow">Нажмите чтобы войти</string>
+    <string name="registerNow">Нажмите чтобы зарегистрироваться</string>
+    <string name="logout">Выйти</string>
+    <string name="main_act">Главное меню</string>
+    <string name="Profile">Профиль</string>
+    <string name="Email">Почта</string>
+
+    <string name="Fact1">Отпечаток собачьего носа так же уникален, как и отпечатки человеческих пальцев.</string>
+    <string name="Fact2">Нельзя давать собакам шоколад. Они его любят, но он для них вреден и даже опасен.</string>
+    <string name="Fact3">Ноль – это единственное число, какое невозможно записать римскими цифрами. \nХотя в древности люди знали о существовании нуля, они вообще не считали его цифрой. </string>
+    <string name="Fact4">Вы знаете, что будет после миллиона? После миллиона идет миллиард, за миллиардом триллион, за триллионом квадриллион,\nза квадриллионом квинтиллион, затем секстиллион, далее септиллион, потом октиллион, нониллион,\nдециллион и ундециллион.</string>
+    <string name="Fact5">У многих людей есть свои любимые и «счастливые» числа. Самым популярным является «7».</string>
+
+</resources>
